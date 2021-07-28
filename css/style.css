@@ -1,0 +1,26 @@
+
+.quem-somos{
+    background-color: antiquewhite;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.rounded-circle{
+    margin: 20px;
+}
+
+.img{
+    border-radius: 10px;
+}
+
+.servicos{
+    background-color: antiquewhite;
+}
+
+.bg-footer{
+    text-decoration: none;
+
+}
